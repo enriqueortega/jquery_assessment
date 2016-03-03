@@ -1,0 +1,16 @@
+.container {
+    max-width: 900px;
+    max-height: 100%;
+    border: 1px solid red;
+    margin: 0 auto;
+}
+
+.appended {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+}
+
+.changed {
+  background-color: red;
+}
